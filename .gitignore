@@ -1,0 +1,5 @@
+#Private tokens
+config.json
+
+#NPM
+node_modules/

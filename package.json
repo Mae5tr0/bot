@@ -2,10 +2,14 @@
   "name": "bot",
   "version": "0.0.1",
   "description": "Base for superbot",
+  "repository": "git@github.com:Mae5tr0/bot.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.10"
+  }
 }
