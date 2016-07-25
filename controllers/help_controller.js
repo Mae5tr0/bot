@@ -13,7 +13,7 @@ class HelpController extends TelegramBaseController {
 
     get routes() {
         return {
-            'help': 'helpHandler'
+            '/help': 'helpHandler'
         }
     }
 }
